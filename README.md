@@ -1,6 +1,6 @@
 # Assumptions of LIBOR Data Analysis
 
-This project shows the importance of testing the probabilistic assumptions (distribution, dependence, heterogeneity) of your data set before conducting any analysis on said data.
+This final project from my PhD course work shows the importance of testing the probabilistic assumptions (distribution, dependence, heterogeneity) of your data set before conducting any analysis on said data.
 
 The file below was ran to test if the data was Normal, Independent and Identically distributed:
 - <em>0) Prepare Data & Analyze resids of Normal Regression.py</em>
